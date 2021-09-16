@@ -23,4 +23,4 @@ function selectionSort(array){
     }
   
     return sortedArray;
-  }
+}
